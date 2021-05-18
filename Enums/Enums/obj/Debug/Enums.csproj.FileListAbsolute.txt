@@ -1,0 +1,7 @@
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Enums\Enums\obj\Debug\Enums.pdb
